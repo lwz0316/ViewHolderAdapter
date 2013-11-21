@@ -6,7 +6,10 @@ ViewHolderAdapter
 
 # 如何使用
 
-就是如此简单
+点击查看
+[ViewHolderAdapterSample](https://github.com/lwz0316/ViewHolderAdapterSample)
+
+核心代码片段 （就是如此简单）
 
 	class LampAdapter extends ViewHolderAdapter<Lamp> {
 
